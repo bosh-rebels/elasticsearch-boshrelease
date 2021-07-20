@@ -1,6 +1,8 @@
 elasticsearch/elasticsearch-7.13.3.tar.gz:
   size: 174726042
+  object_id: d3452575-a0e7-48ed-5800-fcb9c9b87fee
   sha: sha256:4ea77b35ef1505ed3f1d45278d7056f1922ee163801107323854191c64c31849
 repository-s3/repository-s3-7.13.3.zip:
   size: 4768139
+  object_id: bc7a930c-dc20-49be-74b8-46300714c00a
   sha: sha256:d91fdb878a97a40b10e41aea969e57b2fc1f04bf23374faae5542a9b948cce0b
