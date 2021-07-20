@@ -2,7 +2,7 @@
 
 THIS_SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
 DOWNLOAD_FOLDER="/tmp/bosh_downloads"
-ES_VERSION=7.10.2
+ES_VERSION=7.13.3
 
 plugin_blob_url_list=(\
     https://artifacts.elastic.co/downloads/elasticsearch-plugins/repository-s3/repository-s3-${ES_VERSION}.zip \
